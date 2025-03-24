@@ -53,6 +53,10 @@ export const Skills = () => {
                                 <img src={meter1} alt="Image" />
                                 <h5>Django</h5>
                             </div>
+                           <div className="item">
+                                <img src={meter2} alt="Image" />
+                                <h5>MySQL</h5>
+                            </div>
                         </Carousel>
                     </div>
                 </div>
