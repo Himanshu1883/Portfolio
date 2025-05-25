@@ -59,7 +59,7 @@ export const Banner = () => {
                                     <span className="tagline">Welcome to my Portfolio</span>
                                     <h1>{`Hi! I'm Himanshu`} <span className="txt-rotate" data-period="1000" data-rotate='[ "Full-Stack Developer", "Web Designer" , "Python Developer"]'><span className="wrap">{text}</span></span></h1>
                                     <p>I'm Himanshu Dubey, a passionate Full-Stack Developer with expertise in front-end and Python. I enjoy crafting responsive, high-performance web applications with clean code and intuitive designs. Always eager to learn and innovate—let's build something incredible together!</p>
-                                    <button onClick={() => window.open('https://drive.google.com/file/d/1eZH9ua3AgwN8MlBxDsmXUR7YVZmTxyfZ/view?usp=sharing', '_blank')}>
+                                    <button onClick={() => window.open('https://drive.google.com/file/d/1VJ2b0qzs0IlavsNQBlIp4WiX9LtadFf2/view?usp=sharing', '_blank')}>
                                         Download CV <BsArrowRightCircle size={25} />
                                     </button>
 
